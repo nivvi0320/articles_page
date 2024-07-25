@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.unordered {
+    color: #ffffff;
+}
+
+.card1 {
+    background-color: #225db0;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 50px;
+    margin: 10px;
+
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: light;
+}
+
+.para {
+    color: #ffffff;
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.h-center {
+    text-align: center;
+}
+
+.button {
+    height: 35px;
+    width: 50px;
+    background-color: #225db0;
+    color: #ffffff;
+    margin-left: 150px;
+}
+
+.card2 {
+    height: 100px;
+    width: 170px;
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.image {
+    padding: 2px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.head {
+    font-family: roboto;
+    font-size: 17px;
+    padding: 5px;
+}
